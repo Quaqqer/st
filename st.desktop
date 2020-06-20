@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=st
+Name=Simple Terminal
 Comment=simple-terminal emulator for X
 Icon=utilities-terminal
 Exec=st
