@@ -53,3 +53,5 @@ dkms.conf
 
 st
 patches/
+pkg/
+*.pkg.tar.xz
