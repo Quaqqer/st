@@ -57,3 +57,5 @@ pkg/
 *.pkg.tar.xz
 *.orig
 *.rej
+
+config.h
