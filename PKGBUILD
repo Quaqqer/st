@@ -1,10 +1,11 @@
 # Maintainer: Quaqqer <quaqqer@gmail.com>
 pkgname=st-quaqqer
 pkgver=0.8.4
-pkgrel=3
+pkgrel=4
 arch=(x86_64)
 pkgdesc="Quaqqer's build of ST"
 conflicts=('st')
+provides=('st')
 
 build() {
 	cd ..
