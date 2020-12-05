@@ -58,7 +58,5 @@ pkg/
 *.orig
 *.rej
 
-config.h
-
 .cache
 compile_commands.json
