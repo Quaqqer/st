@@ -108,7 +108,7 @@ unsigned int tabspaces = 8;
 /* bg opacity */
 float alpha = 0.9;
 
-#include "colors/palenight.h"
+#include "colors/nord.h"
 
 /*
  * Default shape of cursor
