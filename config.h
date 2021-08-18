@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mononoki:pixelsize=13:antialias=true:autohint=true";
+static char *font = "mononoki Nerd Font Mono:pixelsize=13:antialias=true:autohint=true";
 static char *font2[] = {
-    "Symbols Nerd Font:pixelsize=13:antialias=true:autohint=true"
+    //"Symbols Nerd Font:pixelsize=13:antialias=true:autohint=true"
 };
 static int borderpx = 0;
 
